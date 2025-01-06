@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Noah.<br><br>- 🔭 I’m working as a fulltime nerd.<br>- 📚 I'm currently learning UX/UI.<br>- ⚡ In my free time, I maintain open sourced software.</p>
+<p align="left">Hello, I'm Noah.<br><br>- 🔭 I’m working as a fulltime nerd.<br>- 📚 I'm currently learning UX/UI.<br>- ⚡ In my free time, I maintain open sourced software.</p>
 
 ###
 
